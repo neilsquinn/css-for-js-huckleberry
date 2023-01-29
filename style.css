@@ -1,14 +1,12 @@
 * {
   box-sizing: border-box;
   font-family: 'Lato', sans-serif;
-  line-height: 30px;
 }
 
 html,
 body {
   margin: 0;
   padding: 0;
-  line-height: 30px;
 }
 
 /* Add styles here! */
@@ -31,8 +29,6 @@ h2.indented-heading {
   width: max-content;
   background: rgba(255, 191, 0, 1);
   padding: 8px 32px;
-  position: relative;
-  /* left: -10px; */
   margin-left: -32px;
   top: 5px;
   border-bottom: 8px rgba(204, 153, 0, 1) solid;
@@ -40,8 +36,6 @@ h2.indented-heading {
 
 .max-width-wrapper {
   max-width: 800px;
-  /* padding-left: 20px;
-  padding-right: 20px; */
   margin-left: auto;
   margin-right: auto;
 }
